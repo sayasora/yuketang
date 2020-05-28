@@ -10,7 +10,7 @@ chi_sim雨课堂.traineddata 文件为OCR库中tessdata里的中文识别包，�
 
 out_txt 与 out_word 中需要修改的代码如下，具体修改为雨课堂中相应的参数
 
-https://github.com/sayasora/yuketang/blob/master/show1.png
+![image]https://github.com/sayasora/yuketang/blob/master/show1.png)
 
 problem_id 与 problem_id2 为一个测试题的第一题与最后一题 如果差值大于题数，那就要自己写try循环了，中间有些题号被作废了
 
